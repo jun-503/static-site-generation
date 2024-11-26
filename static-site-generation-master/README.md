@@ -5,7 +5,7 @@ This project demonstrates the use of **Static Site Generation (SSG)** concepts w
 ---
 
 ## **Deployed Site**
-🔗 [View the Live Site](https://fsfrahmad.github.io/static-site-generation/)
+🔗 [View the Live Site](https://jun-503.github.io/static-site-generation/)
 
 ---
 
